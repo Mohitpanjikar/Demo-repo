@@ -22,5 +22,89 @@
       "info": 0
     },
     "totalFindings": 3
+  },
+  {
+    "timestamp": 1776921215963,
+    "target": "test.js",
+    "counts": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "info": 0
+    },
+    "totalFindings": 0
+  },
+  {
+    "timestamp": 1776921218528,
+    "target": "test.js",
+    "counts": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "info": 0
+    },
+    "totalFindings": 0
+  },
+  {
+    "timestamp": 1776921230139,
+    "target": "test.js",
+    "counts": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "info": 0
+    },
+    "totalFindings": 0
+  },
+  {
+    "timestamp": 1776921232267,
+    "target": "test.js",
+    "counts": {
+      "critical": 0,
+      "high": 0,
+      "medium": 0,
+      "low": 0,
+      "info": 0
+    },
+    "totalFindings": 0
+  },
+  {
+    "timestamp": 1776921235790,
+    "target": "test.js",
+    "counts": {
+      "critical": 2,
+      "high": 1,
+      "medium": 0,
+      "low": 0,
+      "info": 0
+    },
+    "totalFindings": 3
+  },
+  {
+    "timestamp": 1776921468076,
+    "target": "workspace",
+    "counts": {
+      "critical": 2,
+      "high": 1,
+      "medium": 0,
+      "low": 0,
+      "info": 0
+    },
+    "totalFindings": 3
+  },
+  {
+    "timestamp": 1776921480815,
+    "target": "test.js",
+    "counts": {
+      "critical": 2,
+      "high": 1,
+      "medium": 0,
+      "low": 0,
+      "info": 0
+    },
+    "totalFindings": 3
   }
 ]
