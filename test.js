@@ -8,3 +8,5 @@ console.log("Database URL:", db_url);
 console.log("Database Password:", db_password);
 
 console.log("This is a test file for secure code scanning.");
+
+console.log("End of test file.");

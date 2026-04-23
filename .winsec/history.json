@@ -106,5 +106,41 @@
       "info": 0
     },
     "totalFindings": 3
+  },
+  {
+    "timestamp": 1776947933453,
+    "target": "workspace",
+    "counts": {
+      "critical": 2,
+      "high": 1,
+      "medium": 0,
+      "low": 0,
+      "info": 0
+    },
+    "totalFindings": 3
+  },
+  {
+    "timestamp": 1776947948024,
+    "target": "test.js",
+    "counts": {
+      "critical": 2,
+      "high": 1,
+      "medium": 0,
+      "low": 0,
+      "info": 0
+    },
+    "totalFindings": 3
+  },
+  {
+    "timestamp": 1776947953998,
+    "target": "workspace",
+    "counts": {
+      "critical": 2,
+      "high": 1,
+      "medium": 0,
+      "low": 0,
+      "info": 0
+    },
+    "totalFindings": 3
   }
 ]
