@@ -3,6 +3,8 @@ console.log("testing2 with winsec");
 
 const dbUrl = process.env.DB_URL || "";
 
+const db_password = "supersecretpassword";
+
 if (!dbUrl) {
 	console.warn("DB_URL is not set.");
 }
