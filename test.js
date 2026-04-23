@@ -1,11 +1,13 @@
 console.log("testing");
 console.log("testing2 with winsec");
 
-const db_url = "mongodb://localhost:27017/testdb";
-const db_password = "password123";
+const dbUrl = process.env.DB_URL || "";
 
-console.log("Database URL:", db_url);
-console.log("Database Password:", db_password);
+if (!dbUrl) {
+	console.warn("DB_URL is not set.");
+}
+
+console.log("Database URL configured:", Boolean(dbUrl));
 
 console.log("This is a test file for secure code scanning.");
 
