@@ -13,4 +13,4 @@ console.log("Database URL configured:", Boolean(dbUrl));
 
 console.log("This is a test file for secure code scanning.");
 
-console.log("End of test file.");
+console.log("End of test file."); 
